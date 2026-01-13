@@ -30,7 +30,7 @@ This repository serves as a practical cookbook for FastAPI developers, providing
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fastapi-recipes.git
+git clone https://github.com/tediscript/fastapi-recipes.git
 cd fastapi-recipes
 ```
 
